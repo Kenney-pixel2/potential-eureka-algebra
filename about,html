@@ -1,0 +1,42 @@
+<!-- about.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>College Algebra · About</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+  <main>
+    <h1>About this site</h1>
+    <p class="lead">This is my personal College Algebra reference site — a place to collect the lessons I’m learning and make them easy to revisit.</p>
+
+    <section class="about-grid">
+      <article>
+        <h2>👩‍🎓 Why I built it</h2>
+        <p>I’m currently taking College Algebra. Instead of scattering notes across notebooks and screenshots, I’m organizing each topic here so I can review them anytime, and also help classmates who might need the same references.</p>
+      </article>
+      <article>
+        <h2>📚 What you’ll find</h2>
+        <p>Every lesson page contains a short summary, key formulas, examples, and practice problems. I update the site as I move through the course, so it grows with me.</p>
+      </article>
+      <article>
+        <h2>🧠 My approach</h2>
+        <p>I believe algebra becomes easier with consistent practice and clear references. This site is my tool for both — a study log and a quick-check resource before exams.</p>
+      </article>
+    </section>
+
+    <section class="fun-fact">
+      <h2>✨ A little more</h2>
+      <p>I built this while learning GitHub Pages. The layout uses one shared <code>style.css</code> across all three pages, which keeps everything consistent and simple to maintain.</p>
+    </section>
+  </main>
+  <footer>&copy; 2025 Algebra Course · My Name</footer>
+</body>
+</html>
